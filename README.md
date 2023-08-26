@@ -1,1 +1,2 @@
-# LGM_VIP_Web_Development
+# Scientific_calculator
+LGM web development task 4
